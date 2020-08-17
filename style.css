@@ -313,7 +313,7 @@ header {
   margin: .2rem auto 0px auto;
   padding: .2rem 17.5% 0px 17.5%;
   margin-top: 0px;
-  transition: 3s ease;
+  transition: 2s ease;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -339,14 +339,14 @@ header {
 }
 
 .white-nav-top {
-  background: #fff9ffd6;
+  background: white;
   padding: 0 5rem;
   padding-left: 17.5%;
   padding-right: 17.5%;
   -webkit-box-shadow: 0 8px 6px -9px #999;
   box-shadow: 0 8px 6px -9px #999;
   z-index: 2;
-  transition: 3s ease;
+  transition: 2s ease;
 }
 
 .white-nav-top ul.navbar-nav>li>a {
