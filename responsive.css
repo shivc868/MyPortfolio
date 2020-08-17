@@ -1,0 +1,166 @@
+/* #################mobile responsive ##################### */
+@media only screen and (max-width: 465px) and (min-width: 320px) {
+  html {
+    font-size: 40.5%;
+  }
+
+  /* #################services######################## */
+  .services-class {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .main-web {
+    width: 75%;
+  }
+
+  .main-responsive.text-center {
+    margin-left: 0;
+    width: 75%;
+    margin-top: 5rem;
+  }
+
+  .main-graphic.text-center {
+    margin-left: 0;
+    width: 75%;
+    margin-top: 5rem;
+  }
+
+  /* #################footer######################## */
+  #footer {
+    text-align: center;
+  }
+
+  .center-footer {
+    margin-top: 3rem;
+  }
+
+  .link {
+    margin-top: 2rem;
+  }
+
+  .media {
+    justify-content: center;
+  }
+
+  .shiv-footer {
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* ################# home ######################## */
+  .contant {
+    justify-content: center;
+  }
+
+  .left-side {
+    margin-bottom: 10rem;
+  }
+
+  /* ################# contact ######################## */
+  .card-shadow {
+    margin-bottom: 5rem;
+  }
+}
+
+
+/* ############################tablet view################ */
+
+@media only screen and (min-width: 465px) and (max-width: 768px) {
+  html {
+    font-size: 52.0%;
+  }
+
+
+  /* ##################home################# */
+
+  .contant {
+    justify-content: center;
+  }
+
+  .left-side {
+    margin-bottom: 10rem;
+  }
+
+  /* ##################SERVICES ################ */
+
+  .services-class {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .main-web {
+    width: 75%;
+  }
+
+  .main-responsive.text-center {
+    margin-left: 0;
+    width: 75%;
+    margin-top: 5rem;
+  }
+
+  .main-graphic.text-center {
+    margin-left: 0;
+    width: 75%;
+    margin-top: 5rem;
+  }
+
+  /* ################# contact ######################## */
+  .card-shadow {
+    margin-bottom: 5rem;
+  }
+
+
+
+  /* #################footer######################## */
+  #footer {
+    text-align: center;
+  }
+
+  .center-footer {
+    margin-top: 3rem;
+  }
+
+  .link {
+    margin-top: 2rem;
+  }
+
+  .media {
+    justify-content: center;
+  }
+
+  .shiv-footer {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .shiv-footer h1 {
+    font-size: 3rem;
+  }
+
+}
+
+
+/* ############################laptop view################ */
+
+@media only screen and (max-width: 836px) and (min-width: 768px) {
+
+  html {
+    font-size: 42.5%;
+  }
+
+/* ################# team ######################## */
+  .team4 .subtitle {
+    font-size: 2.5rem;
+  }
+
+  /* ################# contact ######################## */
+  .card-shadow {
+    margin-bottom: 5rem;
+  }
+}
+@media only screen and (min-width: 836px) and (max-width: 1127px){
+html{
+  font-size: 46%;
+}
+}
