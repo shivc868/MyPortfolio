@@ -21,6 +21,9 @@ body {
 header {
   overflow: hidden;
 }
+.active{
+  color:red;
+}
 
 section#teespring {
   background-color: #1898e37a;
