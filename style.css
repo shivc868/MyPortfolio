@@ -58,7 +58,10 @@ h5,
 h6 {
   color: black;
 }
-
+.navbar-brand > img {
+  width: 80px;
+  height: 65px;
+}
 .left-side h1 {
   font-family: Merriweather;
   letter-spacing: .1rem;
