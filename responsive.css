@@ -3,6 +3,10 @@
   html {
     font-size: 40.5%;
   }
+  .navbar-brand > img {
+    width: 39px;
+    height: 36px;
+}
 
   /* #################services######################## */
   .services-class {
@@ -70,7 +74,10 @@
   html {
     font-size: 52.0%;
   }
-
+.navbar-brand > img {
+    width: 39px;
+    height: 36px;
+}
 
   /* ##################home################# */
 
